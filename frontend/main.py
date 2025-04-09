@@ -1,5 +1,4 @@
 from tkinter.filedialog import askdirectory, askopenfilename
-from tkinter.messabox import askno
 from tkinter import *
 
 #arq_comp = askopenfilename(title="Selecione um arquivo do computador")
