@@ -7,7 +7,7 @@ No back:
 3. Mesclar todos os pdf's em um só
 4. E dar a opção do cliente onde salvar
 
-No front:
+No front: (em desenvolvimento)
 1. O título Mesclar PDF - Cardápio 2025
 2. Uma caixa de texto em que o usuário possa digitar o nome do prato e terá um filtro de auto-completar conforme os nomes dos pdf da pasta \Cardápio 2025
 3. Apareça uma lista com os pratos selecionadas
