@@ -6,7 +6,7 @@ from tkinter.filedialog import askdirectory
 
 
 merger = PyPDF2.PdfMerger() #vincular a função a variável merger
-list_arq = os.listdir("Cardápio 2025")
+list_arq = os.listdir("Pratos Escolhidos")
 for arq in list_arq:
     if ".pdf" in arq:
         merger.append(f"Pratos Escolhidos/{arq}")
