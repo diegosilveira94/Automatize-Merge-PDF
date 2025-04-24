@@ -20,7 +20,7 @@ titulo.grid(row=0, column=0, padx=20, pady=20, sticky="ew")
 #Caixa de texto
 
 cx_texto = ctk.CTkEntry(app, bg_color='white', placeholder_text="Digite as opções")
-cx_texto.grid(row=1, column=0, padx=20, pady=20, sticky="ew)
+# cx_texto.grid(row=1, column=0, padx=20, pady=20, sticky="ew)
 
 #Botão
 button = ctk.CTkButton(app, text="Mesclar", command=merge_Pdf)
